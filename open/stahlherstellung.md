@@ -62,6 +62,9 @@ Kaltwalzwerk (Stefan)
 https://de.wikipedia.org/wiki/Kaltwalzen
 
 
-Veredelungsanlage (Stefan)
+Veredelungsanlage (Frau Zeizinger - Feuerverzinkungsanlage)
 ------------------------
-* z.B. Feurerverzinkung / Elektrolytische-Verzinkung
+* Einsatzmaterial?
+* Wie läuft der Verzinkungsprozess in der Anlage ab (Einlauf --> Vorreinigung --> Ofen --> Zinkbad --> DG --> Nachbehandlung --> BBO --> Auslauf)
+* Welche Produkte werden in der FBA erzeugt? Wofür werden diese verwendet?
+* Prozess- und Qualitätsdatenaufzeichnung und Auswertung 
